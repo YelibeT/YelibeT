@@ -8,11 +8,11 @@ I'm passionate about software development, algorithms, backend engineering, and 
 
 ## 🚀 What I'm Up To
 
-🔭 Building full-stack applications and REST APIs
-🧠 Practicing Data Structures and Algorithms on [LeetCode](https://leetcode.com/)
-🌱 Strengthening my React, Node.js, and database skills
-💡  Exploring system design
-🤝 Looking for internship opportunities and open-source contributions
+🔭 Building full-stack applications and REST APIs<br>
+🧠 Practicing Data Structures and Algorithms on [LeetCode](https://leetcode.com/)<br>
+🌱 Strengthening my React, Node.js, and database skills<br>
+💡  Exploring system design<br>
+🤝 Looking for internship opportunities and open-source contributions<br>
 
 ## 🛠️ Tech Stack
 
