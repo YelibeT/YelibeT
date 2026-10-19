@@ -16,25 +16,15 @@ I'm passionate about software development, algorithms, backend engineering, and 
 
 ## 🛠️ Tech Stack
 
-**Languages**<br>
+**Languages** : JavaScript, Python, C++
 
-JavaScript, Python
+**Frontend Development** : HTML3, CSS5, ReactJs
 
-**Frontend Development**<br>
+**Backend Development** : NodeJs, ExpressJs, FastAPI
 
-HTML3, CSS5, ReactJs
+**Databases** : MongoDB, PostgreSQL
 
-**Backend Development**<br>
-
-NodeJs, ExpressJs, FastAPI
-
-**Databases**<br>
-
-MongoDB, PostgreSQL
-
-**Tools**<br>
-
-Git, GitHub, Docker
+**Tools** : Git, GitHub, Docker
 
 Email: yelibe44@gmail.com
 LinkedIn: https://www.linkedin.com/in/yelibe-tsedeke-75627a401/
