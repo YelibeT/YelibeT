@@ -17,12 +17,17 @@ I'm passionate about software development, algorithms, backend engineering, and 
 ## 🛠️ Tech Stack
 
 **Languages**
+
 JavaScript, Python
 **Frontend Development**
+
 HTML3, CSS5, ReactJs
 **Backend Development**
+
 NodeJs, ExpressJs, FastAPI
 **Databases**
+
 MongoDB, PostgreSQL
 **Tools**
+
 Git, GitHub, Docker
