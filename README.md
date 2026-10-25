@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Yelibe Tsedeke
 
-### 💻 Software Engineering Student | Aspiring Software Engineer
+### 💻 Software Engineering Student | Software Engineer
 
 I'm a fourth-year Software Engineering student at **Addis Ababa University, Ethiopia**. I enjoy solving problems, understanding how software works under the hood, and building practical projects that turn ideas into working applications.
 
@@ -11,7 +11,7 @@ I'm passionate about software development, algorithms, backend engineering, and 
 🔭 Building full-stack applications and REST APIs<br>
 🧠 Practicing Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/Yelibe_Tsedeke)<br>
 🌱 Strengthening my React, Node.js, and database skills<br>
-💡  Exploring system design<br>
+💡  Exploring system design, ML/AI<br>
 🤝 Looking for internship opportunities and open-source contributions<br>
 
 ## 🛠️ Tech Stack
